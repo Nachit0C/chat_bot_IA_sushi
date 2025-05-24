@@ -9,7 +9,7 @@ from database.db_functions import create_pedido_nuevo
 
 load_dotenv()
 
-PORT = os.getenv("PORT", 500)
+PORT = os.getenv("PORT", 5000)
 
 app = Flask(__name__)
 CORS(app)
