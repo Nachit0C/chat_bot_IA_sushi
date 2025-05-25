@@ -15,6 +15,12 @@ Backend (Python/Flask)
   
 Frontend (Node.js/React)
 - Node.js - React - Zustand - npm
+
+## Utilización:
+El proyecto está deployado en: https://chat-bot-ia-sushi-frontend.vercel.app/
+- Puedes preguntarle preguntas frecuentes y que te enseñe el menu (Todavía no hay implementado un menú para verlo de mejor manera, pero al menos con eso podrás realizar tu pedido!)
+- Podras pedirle realizar un pedido, siguiendo los pasos que te pide
+- Podrás confirmar o cancelar el pedido y seguir en la conversación
   
 ## 🚀 Instalación y Uso Local
 Este proyecto requiere que tanto el backend como el frontend estén funcionando para una experiencia completa. Sigue los pasos a continuación para configurarlo en tu máquina local.
@@ -64,7 +70,7 @@ pip install -r requirements.txt
 ```
 Ejecuta el Backend:
 ```
-flask run
+py main.py
 ```
 El backend debería iniciarse y ser accesible en http://127.0.0.1:5000 (o el puerto configurado en tu .env si lo cambiaste). Deberías ver un mensaje en la consola indicando que Flask está corriendo.
 ### 🖥️ Configuración del Frontend
@@ -79,7 +85,7 @@ npm install
 ```
 Ejecuta el Frontend:
 ```
-npm start
+npm run dev
 ```
 El frontend debería abrirse automáticamente en tu navegador predeterminado en http://localhost:3000.
 ## 💬 Uso del Chatbot
