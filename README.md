@@ -17,7 +17,7 @@ Frontend (Node.js/React)
 - Node.js - React - Zustand - npm
 
 ## Utilización:
-El proyecto está deployado en: https://chat-bot-ia-sushi-frontend.vercel.app/
+El proyecto está disponible en línea en: https://chat-bot-ia-sushi-frontend.vercel.app/
 - Puedes preguntarle preguntas frecuentes y que te enseñe el menu (Todavía no hay implementado un menú para verlo de mejor manera, pero al menos con eso podrás realizar tu pedido!)
 - Podras pedirle realizar un pedido, siguiendo los pasos que te pide
 - Podrás confirmar o cancelar el pedido y seguir en la conversación
