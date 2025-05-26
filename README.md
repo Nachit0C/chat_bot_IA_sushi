@@ -21,7 +21,8 @@ El proyecto está disponible en línea en: https://chat-bot-ia-sushi-frontend.ve
 - Puedes preguntarle preguntas frecuentes y que te enseñe el menu (Todavía no hay implementado un menú para verlo de mejor manera, pero al menos con eso podrás realizar tu pedido!)
 - Podras pedirle realizar un pedido, siguiendo los pasos que te pide
 - Podrás confirmar o cancelar el pedido y seguir en la conversación
- (El backend está hosteado con un plan gratuito, por lo tanto sufre de "cold start", y tarda en responder el primer mensaje)
+
+(El backend está hosteado con un plan gratuito, por lo tanto sufre de "cold start", y tarda en responder el primer mensaje)
   
 ## 🚀 Instalación y Uso Local
 Este proyecto requiere que tanto el backend como el frontend estén funcionando para una experiencia completa. Sigue los pasos a continuación para configurarlo en tu máquina local.
